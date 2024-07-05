@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720220596 source:f:\ufrgs\aulas\semestre 1\alg e prog\atividade pratica\atividade pratica 08\atividade08\atividaderay.c
+	"raylib.h"
+	<string.h>
+
